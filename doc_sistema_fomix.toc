@@ -10,5 +10,5 @@
 \contentsline {section}{\numberline {1.4}Especificaci\IeC {\'o}n de Requerimientos funcionales}{5}
 \contentsline {subsection}{\numberline {1.4.1}Priorizaci\IeC {\'o}n de Requerimientos}{5}
 \contentsline {subsection}{\numberline {1.4.2}Diagrama de Casos de Uso}{7}
-\contentsline {subsection}{\numberline {1.4.3}Descripci\IeC {\'o}n de M\IeC {\'o}dulos y Casos de Uso}{7}
-\contentsline {subsection}{\numberline {1.4.4}Casos de Uso}{8}
+\contentsline {subsection}{\numberline {1.4.3}Descripci\IeC {\'o}n de M\IeC {\'o}dulos y Casos de Uso}{9}
+\contentsline {subsection}{\numberline {1.4.4}Casos de Uso}{10}

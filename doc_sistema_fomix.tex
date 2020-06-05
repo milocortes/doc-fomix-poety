@@ -8,6 +8,8 @@
 \usepackage[dvipsnames]{xcolor}
 %%%%%%% Para modificar los márgenes
 \usepackage[margin = 1.5in]{geometry}
+\usepackage[usegeometry]{typearea}% before geometry!
+
 \usepackage{geometry}
 %%%%%%% Páginas horizontales
 \usepackage{pdflscape}
@@ -37,10 +39,10 @@
 
 \pagestyle{fancy}
 \fancyhf{}
-%%\fancyhead[RE,RO]{\documentnumber~Rev.~\currentrevision}
+\fancyhead[RE,RO]{\documentnumber~Rev.~\currentrevision}
 \fancyhead[RE,RO]{Versión.~\currentrevision}
 
-\fancyhead[LE,LO]{\leftmark \\ Sistema de Gestión de Poety}
+\fancyhead[LE,LO]{\leftmark \\ Sistema de Gestión de POETY}
 
 \fancyfoot[LE,CO]{\thepage}
 
@@ -50,6 +52,23 @@
 
 \def \currentrevision{0.1}
 %%\def \documentnumber{ME-MAN-001}
+\newcommand*{\useportrait}{%
+  \clearpage
+  \KOMAoptions{paper=portrait,DIV=current}%switch to portrait
+  \newgeometry{% geometry settings for portrait
+    left=0.5in, right=0.5in, top=0.6in, bottom=1.25in,headheight=23pt,includehead
+  }%
+  \fancyhfoffset{0pt}% <- recalculate head and foot width for fancyhdr
+}
+\newcommand*{\uselandscape}{%
+  \clearpage
+  \KOMAoptions{paper=landscape,DIV=current}%switch to landscape
+  \newgeometry{% geometry settings for landscap
+    left=0.5in, right=0.5in, top=0.6in, bottom=1.25in,headheight=23pt,includehead
+  }%
+  \fancyhfoffset{0pt}% recalculate head and foot width for fancyhdr
+}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
