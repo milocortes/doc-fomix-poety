@@ -60,17 +60,42 @@ Los Objetivos del Negocio del proyecto del Sistema de gestión del POETY son:
 
 \newgeometry{hmargin=.4in,vmargin=0.1in}
 
-\begin{landscape}
+\uselandscape
 \begin{figure}[h]
 
 \centering
 \caption{Priorización de requerimientos}\label{fig:priorReq}
-\includegraphics[width=1.5\textwidth, height=.7\textwidth]{images/PrioritizationRequirements.png}
+\includegraphics[width=1\textwidth, height=.5\textwidth]{images/PrioritizationRequirements}
 \end{figure}
-\end{landscape}
+\useportrait
+
 \restoregeometry
 
+\uselandscape
 \subsection{Diagrama de Casos de Uso}
+
+\begin{figure}[h]
+
+\centering
+\includegraphics[width=1\textwidth, height=.39\textwidth]{images/AdminiInsumos}
+\caption{Diagrama de Administración de Recursos}\label{fig:consumorec_cu_diag}
+
+\end{figure}
+\useportrait
+
+\uselandscape
+
+\begin{figure}[h]
+
+\centering
+\includegraphics[width=1\textwidth, height=.43\textwidth]{images/ConsumoRecursosPropuesta}
+\caption{Diagrama de Consumo de Recursos}\label{fig:consumorec_cu_diag_prop}
+
+\end{figure}
+\useportrait
+\restoregeometry
+
+
 
 \subsection{Descripción de Módulos y Casos de Uso}
 
@@ -95,7 +120,7 @@ Los Objetivos del Negocio del proyecto del Sistema de gestión del POETY son:
 \cline{2-2}
 	 & Consultar mapas de UGAs\\
 \cline{2-2}
-	 & Consultar documentos relacionados con la formulación del POETY\\
+	Consultas y descargas & Consultar documentos relacionados con la formulación del POETY\\
 \cline{2-2}
    & Consultar documentos del POETY por búsqueda\\
 \cline{2-2}
@@ -107,29 +132,30 @@ Los Objetivos del Negocio del proyecto del Sistema de gestión del POETY son:
 \cline{2-2}
 	 & Consultar criterios de regulación por polígono\\
 \cline{2-2}
-Bitácora del ordenamiento	 & Descargar criterios de regulación por polígono\\
+   & Descargar criterios de regulación por polígono\\
 \cline{2-2}
 	 & Descargar criterios de regulación por UGA\\
 \cline{2-2}
-	 & Subir documentos (fichas, u otros)\\
+   & Consultar indicadores del POETY \\
+\hline
 \cline{2-2}
-	 & Subir capas \\
+	 & Dar de alta documentos (fichas, u otros)\\
+\cline{2-2}
+	 & Dar de alta capas \\
 \cline{2-2}
 	 & Actualizar documentos (fichas, u otros)\\
 \cline{2-2}
-	 & Actualizar capas \\
+	Actualización de recursos & Actualizar capas \\
 \cline{2-2}
 	 & Borrar documentos (fichas, u otros)\\
 \cline{2-2}
 	 & Borrar capas \\
-\hline
-	 & Subir mediciones de campo \\
 \cline{2-2}
-	 & Actualizar mediciones de campo \\
+	 & Dar de alta recursos de monitoreo \\
 \cline{2-2}
-Monitoreo y evaluación	 & Borrar mediciones de campo\\
+	 & Actualizar recursos de monitoreo \\
 \cline{2-2}
-	 & Consultar indicadores del POETY \\
+   & Borrar recursos de monitoreo\\
 \hline
 	 &
 Obtener un informe sobre los criterios de regulación y los impactos acumulados\\
@@ -175,7 +201,10 @@ Módulo de administración	 & Dar de baja usuario interno de SDS  \\
 \hline \\[-1ex]
 ID. DEL CU&  {{caso.id}} \\
 \hline\\[-1ex]
-ACTORES PARTICIPANTES & Usuario interno de SDS\\
+ACTORES PARTICIPANTES & {% for line in caso.actores %}
+\par {{line}}
+{% endfor %}
+\\ %%%<---- Este otro salto de linea faltaba %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \hline \\[-1ex]
 BREVE DESCRIPCIÓN & {{caso.descripcion}} \\
 \hline \\[-1ex]
@@ -192,7 +221,7 @@ FLUJO PRINCIPAL &
 \hline \\[-1ex]
 
 FLUJOS ALTERNOS & {% for line in caso.flujos_alternos %}
-\par\vspace{.1cm} {{line}}
+\par {{line}}
 {% endfor %}
 
 
@@ -208,7 +237,7 @@ FLUJOS DE EXCEPCIÓN & {% for line in caso.flujos_excepcion %}
 \hline \\[-1ex]
 POST-CONDICIONES & {{post_condiciones}}
 \\
-\hline 
+\hline
 \hline \\[-1.8ex]
  \\
 \end{longtable}

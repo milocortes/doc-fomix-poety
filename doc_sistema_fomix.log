@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.14)  5 JUN 2020 16:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.2.14)  17 JUN 2020 21:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -583,6 +583,36 @@ LaTeX Info: Redefining \% on input line 6.
 LaTeX Warning: Label `item: modificar_datos_de_usuarios_internos_de_sds ' multi
 ply defined.
 
+
+LaTeX Warning: Label `fig:priorReq' multiply defined.
+
+
+LaTeX Warning: Label `fig:priorReq' multiply defined.
+
+
+LaTeX Warning: Label `fig:priorReq' multiply defined.
+
+
+LaTeX Warning: Label `fig:priorReq' multiply defined.
+
+
+LaTeX Warning: Label `fig:priorReq' multiply defined.
+
+
+LaTeX Warning: Label `fig:priorReq' multiply defined.
+
+
+LaTeX Warning: Label `fig:priorReq' multiply defined.
+
+
+LaTeX Warning: Label `fig:priorReq' multiply defined.
+
+
+LaTeX Warning: Label `fig:priorReq' multiply defined.
+
+
+LaTeX Warning: Label `fig:priorReq' multiply defined.
+
 )
 \openout1 = `doc_sistema_fomix.aux'.
 
@@ -732,6 +762,11 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<images/yucatan_logo.jpg, id=1, 963.6pt x 505.89pt>
+File: images/yucatan_logo.jpg Graphic file (type jpg)
+<use images/yucatan_logo.jpg>
+Package pdftex.def Info: images/yucatan_logo.jpg  used on input line 32.
+(pdftex.def)             Requested size: 147.95433pt x 77.67108pt.
 Package epstopdf Info: Source file: <images/UNAM.eps>
 (epstopdf)                    date: 2020-06-04 20:18:13
 (epstopdf)                    size: 256493 bytes
@@ -740,59 +775,54 @@ Package epstopdf Info: Source file: <images/UNAM.eps>
 (epstopdf)                    size: 65036 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/UNAM-eps-converted-
 to.pdf images/UNAM.eps>
-(epstopdf)             \includegraphics on input line 32.
+(epstopdf)             \includegraphics on input line 33.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex (file ./images/UNAM-eps-converted-to.pdf): PDF inclusi
 on: found PDF version <1.7>, but at most version <1.5> allowed
-<images/UNAM-eps-converted-to.pdf, id=1, 193.72375pt x 193.72375pt>
+<images/UNAM-eps-converted-to.pdf, id=2, 193.72375pt x 193.72375pt>
 File: images/UNAM-eps-converted-to.pdf Graphic file (type pdf)
 <use images/UNAM-eps-converted-to.pdf>
 Package pdftex.def Info: images/UNAM-eps-converted-to.pdf  used on input line 3
-2.
+3.
 (pdftex.def)             Requested size: 133.72795pt x 133.72864pt.
-<images/ie_logo.png, id=2, 200.75pt x 211.79124pt>
+<images/ie_logo.png, id=3, 200.75pt x 211.79124pt>
 File: images/ie_logo.png Graphic file (type png)
 <use images/ie_logo.png>
-Package pdftex.def Info: images/ie_logo.png  used on input line 33.
+Package pdftex.def Info: images/ie_logo.png  used on input line 34.
 (pdftex.def)             Requested size: 119.50157pt x 126.07713pt.
-<images/lancis_logo.png, id=3, 1405.25pt x 612.2875pt>
+<images/lancis_logo.png, id=4, 1405.25pt x 612.2875pt>
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 34.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 35.
 (pdftex.def)             Requested size: 170.71652pt x 74.37756pt.
-<images/yucatan_logo.jpg, id=4, 963.6pt x 505.89pt>
-File: images/yucatan_logo.jpg Graphic file (type jpg)
-<use images/yucatan_logo.jpg>
-Package pdftex.def Info: images/yucatan_logo.jpg  used on input line 35.
-(pdftex.def)             Requested size: 147.95433pt x 77.67108pt.
 
-Overfull \hbox (2.41847pt too wide) in paragraph at lines 32--36
+Overfull \hbox (16.64485pt too wide) in paragraph at lines 32--37
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--36
+Overfull \hbox (2.41847pt too wide) in paragraph at lines 32--37
 []
  []
 
 
-Overfull \hbox (39.40704pt too wide) in paragraph at lines 32--36
+Underfull \hbox (badness 10000) in paragraph at lines 32--37
 []
  []
 
 
-Overfull \hbox (16.64485pt too wide) in paragraph at lines 32--36
+Overfull \hbox (39.40704pt too wide) in paragraph at lines 32--37
 [] 
  []
 
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/UNAM-eps-converte
-d-to.pdf> <./images/ie_logo.png> <./images/lancis_logo.png> <./images/yucatan_l
-ogo.jpg>]) (./doc_sistema_fomix.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/yucatan_logo.jpg>
+ <./images/UNAM-eps-converted-to.pdf> <./images/ie_logo.png> <./images/lancis_l
+ogo.png>]) (./doc_sistema_fomix.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1020,12 +1050,12 @@ Package typearea Info: Using dirty hack to recalculate internal output
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<images/PrioritizationRequirements.jpg, id=35, 1376.14125pt x 462.72874pt>
+<images/PrioritizationRequirements.jpg, id=35, 1376.14125pt x 382.42876pt>
 File: images/PrioritizationRequirements.jpg Graphic file (type jpg)
 <use images/PrioritizationRequirements.jpg>
 Package pdftex.def Info: images/PrioritizationRequirements.jpg  used on input l
 ine 68.
-(pdftex.def)             Requested size: 772.77568pt x 386.39478pt.
+(pdftex.def)             Requested size: 772.77568pt x 386.40753pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1544,11 +1574,11 @@ Package typearea Info: Using dirty hack to recalculate internal output
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Underfull \vbox (badness 10000) detected at line 141
+Underfull \vbox (badness 10000) detected at line 145
  []
 
-LaTeX Info: Redefining \. on input line 172.
-LaTeX Info: Redefining \% on input line 172.
+LaTeX Info: Redefining \. on input line 184.
+LaTeX Info: Redefining \% on input line 184.
 
 Package Fancyhdr Warning: \headheight is too small (15.0pt): 
  Make it at least 25.07225pt.
@@ -1557,7 +1587,7 @@ Package Fancyhdr Warning: \headheight is too small (15.0pt):
 
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 172.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 184.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 
 Package Fancyhdr Warning: \footskip is too small (42.0pt): 
@@ -1577,839 +1607,1302 @@ Package Fancyhdr Warning: \footskip is too small (42.0pt):
 
 
 ]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 183--186
+Overfull \hbox (14.11188pt too wide) in alignment at lines 195--198
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 186--240
+Overfull \hbox (14.11188pt too wide) in alignment at lines 198--257
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 240
+Underfull \vbox (badness 10000) detected at line 257
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 240--240
+Overfull \hbox (14.11188pt too wide) in alignment at lines 257--257
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 244.
-LaTeX Info: Redefining \% on input line 244.
+LaTeX Info: Redefining \. on input line 261.
+LaTeX Info: Redefining \% on input line 261.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 244.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 261.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [10]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 252--255
+Overfull \hbox (14.11188pt too wide) in alignment at lines 269--272
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 255--303
+Overfull \hbox (14.11188pt too wide) in alignment at lines 272--325
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 303
+Underfull \vbox (badness 10000) detected at line 325
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 303--303
+Overfull \hbox (14.11188pt too wide) in alignment at lines 325--325
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 307.
-LaTeX Info: Redefining \% on input line 307.
+LaTeX Info: Redefining \. on input line 329.
+LaTeX Info: Redefining \% on input line 329.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 307.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 329.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [11]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 315--318
+Overfull \hbox (14.11188pt too wide) in alignment at lines 337--340
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 318--372
+Overfull \hbox (14.11188pt too wide) in alignment at lines 340--399
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 372
+Underfull \vbox (badness 10000) detected at line 399
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 372--372
+Overfull \hbox (14.11188pt too wide) in alignment at lines 399--399
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 376.
-LaTeX Info: Redefining \% on input line 376.
+LaTeX Info: Redefining \. on input line 403.
+LaTeX Info: Redefining \% on input line 403.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 376.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 403.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [12]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 384--387
+Overfull \hbox (14.11188pt too wide) in alignment at lines 411--414
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 387--437
+Overfull \hbox (14.11188pt too wide) in alignment at lines 414--469
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 437
+Underfull \vbox (badness 10000) detected at line 469
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 437--437
+Overfull \hbox (14.11188pt too wide) in alignment at lines 469--469
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 441.
-LaTeX Info: Redefining \% on input line 441.
+LaTeX Info: Redefining \. on input line 473.
+LaTeX Info: Redefining \% on input line 473.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 441.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 473.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [13]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 449--452
+Overfull \hbox (14.11188pt too wide) in alignment at lines 481--484
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 452--498
+Overfull \hbox (14.11188pt too wide) in alignment at lines 484--535
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 498
+Underfull \vbox (badness 10000) detected at line 535
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 498--498
+Overfull \hbox (14.11188pt too wide) in alignment at lines 535--535
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 502.
-LaTeX Info: Redefining \% on input line 502.
+LaTeX Info: Redefining \. on input line 539.
+LaTeX Info: Redefining \% on input line 539.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 502.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 539.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [14]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 510--513
+Overfull \hbox (14.11188pt too wide) in alignment at lines 547--550
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 513--561
+Overfull \hbox (14.11188pt too wide) in alignment at lines 550--603
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 561
+Underfull \vbox (badness 10000) detected at line 603
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 561--561
+Overfull \hbox (14.11188pt too wide) in alignment at lines 603--603
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 565.
-LaTeX Info: Redefining \% on input line 565.
+LaTeX Info: Redefining \. on input line 607.
+LaTeX Info: Redefining \% on input line 607.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 565.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 607.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [15]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 573--576
+Overfull \hbox (14.11188pt too wide) in alignment at lines 615--618
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 576--622
+Overfull \hbox (14.11188pt too wide) in alignment at lines 618--669
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 622
+Underfull \vbox (badness 10000) detected at line 669
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 622--622
+Overfull \hbox (14.11188pt too wide) in alignment at lines 669--669
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 626.
-LaTeX Info: Redefining \% on input line 626.
+LaTeX Info: Redefining \. on input line 673.
+LaTeX Info: Redefining \% on input line 673.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 626.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 673.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [16]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 634--637
+Overfull \hbox (14.11188pt too wide) in alignment at lines 681--684
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 637--691
+Overfull \hbox (14.11188pt too wide) in alignment at lines 684--743
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 691
+Underfull \vbox (badness 10000) detected at line 743
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 691--691
+Overfull \hbox (14.11188pt too wide) in alignment at lines 743--743
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 695.
-LaTeX Info: Redefining \% on input line 695.
+LaTeX Info: Redefining \. on input line 747.
+LaTeX Info: Redefining \% on input line 747.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 695.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 747.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [17]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 703--706
+Overfull \hbox (14.11188pt too wide) in alignment at lines 755--758
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 706--758
+Overfull \hbox (14.11188pt too wide) in alignment at lines 758--815
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 758
+Underfull \vbox (badness 10000) detected at line 815
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 758--758
+Overfull \hbox (14.11188pt too wide) in alignment at lines 815--815
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 762.
-LaTeX Info: Redefining \% on input line 762.
+LaTeX Info: Redefining \. on input line 819.
+LaTeX Info: Redefining \% on input line 819.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 762.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 819.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [18]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 770--773
+Overfull \hbox (14.11188pt too wide) in alignment at lines 827--830
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 773--829
+Overfull \hbox (14.11188pt too wide) in alignment at lines 830--891
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 829
+Underfull \vbox (badness 10000) detected at line 891
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 829--829
+Overfull \hbox (14.11188pt too wide) in alignment at lines 891--891
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 833.
-LaTeX Info: Redefining \% on input line 833.
+LaTeX Info: Redefining \. on input line 895.
+LaTeX Info: Redefining \% on input line 895.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 833.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 895.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [19]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 841--844
+Overfull \hbox (14.11188pt too wide) in alignment at lines 903--906
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 844--900
+Overfull \hbox (14.11188pt too wide) in alignment at lines 906--967
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 900
+Underfull \vbox (badness 10000) detected at line 967
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 900--900
+Overfull \hbox (14.11188pt too wide) in alignment at lines 967--967
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 904.
-LaTeX Info: Redefining \% on input line 904.
+LaTeX Info: Redefining \. on input line 971.
+LaTeX Info: Redefining \% on input line 971.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 904.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 971.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [20]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 912--915
+Overfull \hbox (14.11188pt too wide) in alignment at lines 979--982
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 915--965
+Overfull \hbox (14.11188pt too wide) in alignment at lines 982--1037
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 965
+Underfull \vbox (badness 10000) detected at line 1037
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 965--965
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1037--1037
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 969.
-LaTeX Info: Redefining \% on input line 969.
+LaTeX Info: Redefining \. on input line 1041.
+LaTeX Info: Redefining \% on input line 1041.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 969.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1041.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [21]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 977--980
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1049--1052
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 980--1030
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1052--1107
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1030
+Underfull \vbox (badness 10000) detected at line 1107
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1030--1030
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1107--1107
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1034.
-LaTeX Info: Redefining \% on input line 1034.
+LaTeX Info: Redefining \. on input line 1111.
+LaTeX Info: Redefining \% on input line 1111.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1034.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1111.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [22]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1042--1045
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1119--1122
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1045--1097
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1122--1179
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1097
+Underfull \vbox (badness 10000) detected at line 1179
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1097--1097
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1179--1179
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1101.
-LaTeX Info: Redefining \% on input line 1101.
+LaTeX Info: Redefining \. on input line 1183.
+LaTeX Info: Redefining \% on input line 1183.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1101.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1183.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [23]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1109--1112
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1191--1194
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1112--1166
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1194--1253
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1166
+Underfull \vbox (badness 10000) detected at line 1253
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1166--1166
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1253--1253
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1170.
-LaTeX Info: Redefining \% on input line 1170.
+LaTeX Info: Redefining \. on input line 1257.
+LaTeX Info: Redefining \% on input line 1257.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1170.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1257.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [24]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1178--1181
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1265--1268
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1181--1233
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1268--1325
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1233
+Underfull \vbox (badness 10000) detected at line 1325
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1233--1233
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1325--1325
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1237.
-LaTeX Info: Redefining \% on input line 1237.
+LaTeX Info: Redefining \. on input line 1329.
+LaTeX Info: Redefining \% on input line 1329.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1237.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1329.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [25]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1245--1248
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1337--1340
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1248--1304
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1340--1401
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1304
+Underfull \vbox (badness 10000) detected at line 1401
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1304--1304
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1401--1401
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1308.
-LaTeX Info: Redefining \% on input line 1308.
+LaTeX Info: Redefining \. on input line 1405.
+LaTeX Info: Redefining \% on input line 1405.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1308.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1405.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [26]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1316--1319
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1413--1416
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1319--1373
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1416--1473
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1373
+Underfull \vbox (badness 10000) detected at line 1473
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1373--1373
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1473--1473
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1377.
-LaTeX Info: Redefining \% on input line 1377.
+LaTeX Info: Redefining \. on input line 1477.
+LaTeX Info: Redefining \% on input line 1477.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1377.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1477.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [27]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1385--1388
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1485--1488
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1388--1444
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1488--1549
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1444
+Underfull \vbox (badness 10000) detected at line 1549
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1444--1444
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1549--1549
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1448.
-LaTeX Info: Redefining \% on input line 1448.
+LaTeX Info: Redefining \. on input line 1553.
+LaTeX Info: Redefining \% on input line 1553.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1448.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1553.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [28]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1456--1459
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1561--1564
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1459--1511
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1564--1621
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1511
+Underfull \vbox (badness 10000) detected at line 1621
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1511--1511
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1621--1621
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1515.
-LaTeX Info: Redefining \% on input line 1515.
+LaTeX Info: Redefining \. on input line 1625.
+LaTeX Info: Redefining \% on input line 1625.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1515.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1625.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [29]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1523--1526
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1633--1636
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1526--1588
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1636--1703
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1588
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1588--1588
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1703--1703
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1592.
-LaTeX Info: Redefining \% on input line 1592.
+LaTeX Info: Redefining \. on input line 1707.
+LaTeX Info: Redefining \% on input line 1707.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1592.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1707.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [30]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1600--1603
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1715--1718
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1603--1659
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1718--1777
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1659
+Underfull \vbox (badness 10000) detected at line 1777
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1659--1659
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1777--1777
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1663.
-LaTeX Info: Redefining \% on input line 1663.
+LaTeX Info: Redefining \. on input line 1781.
+LaTeX Info: Redefining \% on input line 1781.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1663.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1781.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [31]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1671--1674
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1789--1792
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1674--1730
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1792--1851
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1730
+Underfull \vbox (badness 10000) detected at line 1851
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1730--1730
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1851--1851
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1730.
-LaTeX Info: Redefining \% on input line 1730.
+LaTeX Info: Redefining \. on input line 1851.
+LaTeX Info: Redefining \% on input line 1851.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1730.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1851.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [32]
-LaTeX Info: Redefining \. on input line 1734.
-LaTeX Info: Redefining \% on input line 1734.
+LaTeX Info: Redefining \. on input line 1855.
+LaTeX Info: Redefining \% on input line 1855.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1734.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1855.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
  [33]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1742--1745
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1863--1866
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1745--1801
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1866--1925
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1801
+Underfull \vbox (badness 10000) detected at line 1925
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1801--1801
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1925--1925
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1805.
-LaTeX Info: Redefining \% on input line 1805.
+LaTeX Info: Redefining \. on input line 1929.
+LaTeX Info: Redefining \% on input line 1929.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1805.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 1929.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [34]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1813--1816
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1937--1940
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1816--1872
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1940--1999
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1872
+Underfull \vbox (badness 10000) detected at line 1999
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1872--1872
+Overfull \hbox (14.11188pt too wide) in alignment at lines 1999--1999
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1876.
-LaTeX Info: Redefining \% on input line 1876.
+LaTeX Info: Redefining \. on input line 2003.
+LaTeX Info: Redefining \% on input line 2003.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1876.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2003.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [35]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1884--1887
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2011--2014
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1887--1944
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2014--2074
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1944
+Underfull \vbox (badness 10000) detected at line 2074
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1944--1944
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2074--2074
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 1948.
-LaTeX Info: Redefining \% on input line 1948.
+LaTeX Info: Redefining \. on input line 2078.
+LaTeX Info: Redefining \% on input line 2078.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 1948.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2078.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [36]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1956--1959
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2086--2089
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 1959--2012
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2089--2147
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 2012
+Underfull \vbox (badness 10000) detected at line 2147
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2012--2012
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2147--2147
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 2016.
-LaTeX Info: Redefining \% on input line 2016.
+LaTeX Info: Redefining \. on input line 2151.
+LaTeX Info: Redefining \% on input line 2151.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 2016.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2151.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [37]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2024--2027
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2159--2162
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2027--2081
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2162--2221
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 2081
+Underfull \vbox (badness 10000) detected at line 2221
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2081--2081
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2221--2221
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 2085.
-LaTeX Info: Redefining \% on input line 2085.
+LaTeX Info: Redefining \. on input line 2225.
+LaTeX Info: Redefining \% on input line 2225.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 2085.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2225.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [38]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2093--2096
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2233--2236
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2096--2155
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2236--2298
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 2155
+Underfull \vbox (badness 10000) detected at line 2298
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2155--2155
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2298--2298
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 2159.
-LaTeX Info: Redefining \% on input line 2159.
+LaTeX Info: Redefining \. on input line 2302.
+LaTeX Info: Redefining \% on input line 2302.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 2159.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2302.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [39]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2167--2170
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2310--2313
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2170--2229
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2313--2375
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 2229
+Underfull \vbox (badness 10000) detected at line 2375
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2229--2229
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2375--2375
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 2233.
-LaTeX Info: Redefining \% on input line 2233.
+LaTeX Info: Redefining \. on input line 2379.
+LaTeX Info: Redefining \% on input line 2379.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 2233.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2379.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [40]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2241--2244
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2387--2390
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2244--2299
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2390--2450
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 2299
+Underfull \vbox (badness 10000) detected at line 2450
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2299--2299
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2450--2450
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 2303.
-LaTeX Info: Redefining \% on input line 2303.
+LaTeX Info: Redefining \. on input line 2454.
+LaTeX Info: Redefining \% on input line 2454.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 2303.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2454.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [41]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2311--2314
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2462--2465
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2314--2363
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2465--2519
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 2363
+Underfull \vbox (badness 10000) detected at line 2519
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2363--2363
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2519--2519
  [] [] 
  []
 
-LaTeX Info: Redefining \. on input line 2367.
-LaTeX Info: Redefining \% on input line 2367.
+LaTeX Info: Redefining \. on input line 2523.
+LaTeX Info: Redefining \% on input line 2523.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 2367.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2523.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
 [42]
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2375--2378
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2531--2534
  [] [] 
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2378--2423
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2534--2584
  [] [] 
  []
 
 
-Underfull \vbox (badness 10000) detected at line 2423
+Underfull \vbox (badness 10000) detected at line 2584
  []
 
 
-Overfull \hbox (14.11188pt too wide) in alignment at lines 2423--2423
+Overfull \hbox (14.11188pt too wide) in alignment at lines 2584--2584
  [] [] 
  []
 
-)
-LaTeX Info: Redefining \. on input line 87.
-LaTeX Info: Redefining \% on input line 87.
+LaTeX Info: Redefining \. on input line 2594.
+LaTeX Info: Redefining \% on input line 2594.
 File: images/lancis_logo.png Graphic file (type png)
 <use images/lancis_logo.png>
-Package pdftex.def Info: images/lancis_logo.png  used on input line 87.
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2594.
 (pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
- [43] (./doc_sistema_fomix.aux
+[43]
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 8
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 373.44246pt
+(typearea)              DIV departure   = -4%
+(typearea)              \evensidemargin = 39.76274pt
+(typearea)              \oddsidemargin  = 39.76274pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 538.0pt
+(typearea)              \topmargin      = 0.36087pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 18.0pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 42.0pt
+(typearea)              \baselineskip   = 12.0pt
+(typearea)              on input line 2594.
+Package typearea Info: Using dirty hack to recalculate internal output
+(typearea)             dimensions of LaTeX on input line 2594.
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(112.03273pt, 373.44246pt, 112.03275pt)
+* v-part:(T,H,B)=(105.63086pt, 538.0pt, 201.41608pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=373.44246pt
+* \textheight=538.0pt
+* \oddsidemargin=39.76274pt
+* \evensidemargin=39.76274pt
+* \topmargin=0.36087pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead 
+* h-part:(L,W,R)=(36.135pt, 525.23795pt, 36.135pt)
+* v-part:(T,H,B)=(43.36243pt, 711.34702pt, 90.3375pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=525.23795pt
+* \textheight=670.34702pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-28.90756pt
+* \headheight=23.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+
+Package typearea Warning: Bad type area settings!
+(typearea)                The detected line width is about 48%
+(typearea)                larger than the heuristically detected line width.
+(typearea)                You should e.g. decrease DIV, increase fontsize
+(typearea)                or change papersize.
+
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 8
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 845.04694pt
+(typearea)              \textwidth      = 528.15436pt
+(typearea)              DIV departure   = -48%
+(typearea)              \evensidemargin = 86.1763pt
+(typearea)              \oddsidemargin  = 86.1763pt
+(typearea)             \paperheight     = 597.50793pt
+(typearea)              \textheight     = 382.0pt
+(typearea)              \topmargin      = -30.5815pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 18.0pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 42.0pt
+(typearea)              \baselineskip   = 12.0pt
+(typearea)              on input line 2596.
+Package typearea Info: Using dirty hack to recalculate internal output
+(typearea)             dimensions of LaTeX on input line 2596.
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(158.44629pt, 528.15436pt, 158.44629pt)
+* v-part:(T,H,B)=(74.68849pt, 382.0pt, 140.81944pt)
+* \paperwidth=845.04694pt
+* \paperheight=597.50793pt
+* \textwidth=528.15436pt
+* \textheight=382.0pt
+* \oddsidemargin=86.1763pt
+* \evensidemargin=86.1763pt
+* \topmargin=-30.5815pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=105.63086pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead 
+* h-part:(L,W,R)=(36.135pt, 772.77695pt, 36.135pt)
+* v-part:(T,H,B)=(43.36243pt, 463.80801pt, 90.3375pt)
+* \paperwidth=845.04694pt
+* \paperheight=597.50793pt
+* \textwidth=772.77695pt
+* \textheight=422.80801pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-28.90756pt
+* \headheight=23.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=105.63086pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<images/diag_act_consultardescargar_critreg_poligono.jpg, id=159, 830.10126pt x
+ 725.71124pt>
+File: images/diag_act_consultardescargar_critreg_poligono.jpg Graphic file (typ
+e jpg)
+<use images/diag_act_consultardescargar_critreg_poligono.jpg>
+Package pdftex.def Info: images/diag_act_consultardescargar_critreg_poligono.jp
+g  used on input line 2604.
+(pdftex.def)             Requested size: 618.24255pt x 285.92749pt.
+LaTeX Info: Redefining \. on input line 2611.
+LaTeX Info: Redefining \% on input line 2611.
+
+Package Fancyhdr Warning: \headheight is too small (23.0pt): 
+ Make it at least 25.07225pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: images/lancis_logo.png Graphic file (type png)
+<use images/lancis_logo.png>
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2611.
+(pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
+
+Package Fancyhdr Warning: \footskip is too small (42.0pt): 
+ Make it at least 49.58192pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[44
+
+
+
+
+
+
+ <./images/diag_act_consultardescargar_critreg_poligono.jpg>]
+<images/diag_act_consultardescargar_UGAs.jpg, id=163, 810.02625pt x 775.89874pt
+>
+File: images/diag_act_consultardescargar_UGAs.jpg Graphic file (type jpg)
+<use images/diag_act_consultardescargar_UGAs.jpg>
+Package pdftex.def Info: images/diag_act_consultardescargar_UGAs.jpg  used on i
+nput line 2614.
+(pdftex.def)             Requested size: 618.2343pt x 386.39748pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/diag_act_consultardescargar_doc_relac_form.jpg, id=164, 924.45375pt x 1
+077.02374pt>
+File: images/diag_act_consultardescargar_doc_relac_form.jpg Graphic file (type 
+jpg)
+<use images/diag_act_consultardescargar_doc_relac_form.jpg>
+Package pdftex.def Info: images/diag_act_consultardescargar_doc_relac_form.jpg 
+ used on input line 2622.
+(pdftex.def)             Requested size: 618.2241pt x 463.66994pt.
+
+LaTeX Warning: Float too large for page by 60.75081pt on input line 2623.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/dic_act_consultardescargar_capas_insumo_ordenamiento.jpg, id=165, 629.3
+5126pt x 745.78625pt>
+File: images/dic_act_consultardescargar_capas_insumo_ordenamiento.jpg Graphic f
+ile (type jpg)
+<use images/dic_act_consultardescargar_capas_insumo_ordenamiento.jpg>
+Package pdftex.def Info: images/dic_act_consultardescargar_capas_insumo_ordenam
+iento.jpg  used on input line 2631.
+(pdftex.def)             Requested size: 618.25812pt x 386.38861pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 2634.
+LaTeX Info: Redefining \% on input line 2634.
+File: images/lancis_logo.png Graphic file (type png)
+<use images/lancis_logo.png>
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2634.
+(pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
+[45 <./images/diag_act_consultardescargar_UGAs.jpg>]
+LaTeX Info: Redefining \. on input line 2634.
+LaTeX Info: Redefining \% on input line 2634.
+File: images/lancis_logo.png Graphic file (type png)
+<use images/lancis_logo.png>
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2634.
+(pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
+ [46 <./images/diag_act_consultardescargar_doc_relac_form.jpg>]
+LaTeX Info: Redefining \. on input line 2634.
+LaTeX Info: Redefining \% on input line 2634.
+File: images/lancis_logo.png Graphic file (type png)
+<use images/lancis_logo.png>
+Package pdftex.def Info: images/lancis_logo.png  used on input line 2634.
+(pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
+ [47 <./images/dic_act_consultardescargar_capas_insumo_ordenamiento.jpg>]
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 8
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 373.44246pt
+(typearea)              DIV departure   = -4%
+(typearea)              \evensidemargin = 39.76274pt
+(typearea)              \oddsidemargin  = 39.76274pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 538.0pt
+(typearea)              \topmargin      = 0.36087pt
+(typearea)              \headheight     = 15.0pt
+(typearea)              \headsep        = 18.0pt
+(typearea)              \topskip        = 10.0pt
+(typearea)              \footskip       = 42.0pt
+(typearea)              \baselineskip   = 12.0pt
+(typearea)              on input line 2634.
+Package typearea Info: Using dirty hack to recalculate internal output
+(typearea)             dimensions of LaTeX on input line 2634.
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(112.03273pt, 373.44246pt, 112.03275pt)
+* v-part:(T,H,B)=(105.63086pt, 538.0pt, 201.41608pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=373.44246pt
+* \textheight=538.0pt
+* \oddsidemargin=39.76274pt
+* \evensidemargin=39.76274pt
+* \topmargin=0.36087pt
+* \headheight=15.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead 
+* h-part:(L,W,R)=(36.135pt, 525.23795pt, 36.135pt)
+* v-part:(T,H,B)=(43.36243pt, 711.34702pt, 90.3375pt)
+* \paperwidth=597.50793pt
+* \paperheight=845.04694pt
+* \textwidth=525.23795pt
+* \textheight=670.34702pt
+* \oddsidemargin=-36.135pt
+* \evensidemargin=-36.135pt
+* \topmargin=-28.90756pt
+* \headheight=23.0pt
+* \headsep=18.0pt
+* \topskip=10.0pt
+* \footskip=42.0pt
+* \marginparwidth=74.68849pt
+* \marginparsep=12.8401pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<images/diag_act_alta_recurso.jpg, id=175, 563.10374pt x 765.86125pt>
+File: images/diag_act_alta_recurso.jpg Graphic file (type jpg)
+<use images/diag_act_alta_recurso.jpg>
+Package pdftex.def Info: images/diag_act_alta_recurso.jpg  used on input line 2
+644.
+(pdftex.def)             Requested size: 377.07133pt x 565.62996pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/diag_act_actualizar_recurso.jpg, id=176, 563.10374pt x 916.42375pt>
+File: images/diag_act_actualizar_recurso.jpg Graphic file (type jpg)
+<use images/diag_act_actualizar_recurso.jpg>
+Package pdftex.def Info: images/diag_act_actualizar_recurso.jpg  used on input 
+line 2652.
+(pdftex.def)             Requested size: 377.07133pt x 565.63187pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/diag_act_borrar_recurso.jpg, id=177, 568.1225pt x 916.42375pt>
+File: images/diag_act_borrar_recurso.jpg Graphic file (type jpg)
+<use images/diag_act_borrar_recurso.jpg>
+Package pdftex.def Info: images/diag_act_borrar_recurso.jpg  used on input line
+ 2660.
+(pdftex.def)             Requested size: 377.08586pt x 565.63187pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/diag_act_alta_usuario.jpg, id=178, 845.1575pt x 795.97375pt>
+File: images/diag_act_alta_usuario.jpg Graphic file (type jpg)
+<use images/diag_act_alta_usuario.jpg>
+Package pdftex.def Info: images/diag_act_alta_usuario.jpg  used on input line 2
+669.
+(pdftex.def)             Requested size: 452.49655pt x 565.619pt.
+
+Overfull \hbox (75.42635pt too wide) in paragraph at lines 2669--2670
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/diag_act_actualizar_usuario.jpg, id=179, 564.1075pt x 826.08624pt>
+File: images/diag_act_actualizar_usuario.jpg Graphic file (type jpg)
+<use images/diag_act_actualizar_usuario.jpg>
+Package pdftex.def Info: images/diag_act_actualizar_usuario.jpg  used on input 
+line 2677.
+(pdftex.def)             Requested size: 377.07208pt x 565.61356pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/diag_act_borrar_usuario.jpg, id=180, 564.1075pt x 514.92375pt>
+File: images/diag_act_borrar_usuario.jpg Graphic file (type jpg)
+<use images/diag_act_borrar_usuario.jpg>
+Package pdftex.def Info: images/diag_act_borrar_usuario.jpg  used on input line
+ 2685.
+(pdftex.def)             Requested size: 377.07208pt x 565.65573pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+
+
+Package Fancyhdr Warning: \headheight is too small (15.0pt): 
+ Make it at least 25.07225pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+File: images/lancis_logo.png Graphic file (type png)
+<use images/lancis_logo.png>
+Package pdftex.def Info: images/lancis_logo.png  used on input line 90.
+(pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
+
+Package Fancyhdr Warning: \footskip is too small (42.0pt): 
+ Make it at least 49.58192pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[48 <./images/diag_act_alta_recurso.jpg>]
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+File: images/lancis_logo.png Graphic file (type png)
+<use images/lancis_logo.png>
+Package pdftex.def Info: images/lancis_logo.png  used on input line 90.
+(pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
+ [49 <./images/diag_act_actualizar_recurso.jpg>]
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+File: images/lancis_logo.png Graphic file (type png)
+<use images/lancis_logo.png>
+Package pdftex.def Info: images/lancis_logo.png  used on input line 90.
+(pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
+ [50 <./images/diag_act_borrar_recurso.jpg>]
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+File: images/lancis_logo.png Graphic file (type png)
+<use images/lancis_logo.png>
+Package pdftex.def Info: images/lancis_logo.png  used on input line 90.
+(pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
+ [51 <./images/diag_act_alta_usuario.jpg>]
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+File: images/lancis_logo.png Graphic file (type png)
+<use images/lancis_logo.png>
+Package pdftex.def Info: images/lancis_logo.png  used on input line 90.
+(pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
+ [52 <./images/diag_act_actualizar_usuario.jpg>]
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+File: images/lancis_logo.png Graphic file (type png)
+<use images/lancis_logo.png>
+Package pdftex.def Info: images/lancis_logo.png  used on input line 90.
+(pdftex.def)             Requested size: 113.81102pt x 49.58192pt.
+ [53 <./images/diag_act_borrar_usuario.jpg>] (./doc_sistema_fomix.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 )
@@ -2425,10 +2918,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5145 strings out of 494820
- 72630 string characters out of 6177789
- 184974 words of memory out of 5000000
- 8360 multiletter control sequences out of 15000+600000
+ 5195 strings out of 494820
+ 74866 string characters out of 6177789
+ 184976 words of memory out of 5000000
+ 8400 multiletter control sequences out of 15000+600000
  9120 words of font info for 32 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
  51i,14n,77p,588b,505s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2439,10 +2932,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on doc_sistema_fomix.pdf (44 pages, 778303 bytes).
+Output written on doc_sistema_fomix.pdf (54 pages, 1435807 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
- 123 compressed objects within 2 object streams
+ 227 PDF objects out of 1000 (max. 8388607)
+ 144 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
